@@ -5,7 +5,7 @@ Matkul Data Structures and Algorithm Analysis (COSC6025036)
 // Soal 3: Menentukan Predikat Akademik
 
 ## Kode Program
-File kode dapat dilihat pada `Main.java`.
+File kode dapat dilihat pada `Soal3`.
 
 ## Hasil Eksekusi (Output)
 === DATA MAHASISWA ===
